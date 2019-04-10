@@ -1,3 +1,3 @@
-# bank - Spring MVC
+# BankPc - Spring MVC
 
-Essa aplicação vai simular um banco, para afins de estudos.
+Essa aplicação vai simular um banco, para fins de estudos.
